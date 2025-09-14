@@ -26,8 +26,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=salonigupta0112&show_icons=true&theme=tokyonight)
 ---
 
 ## 🤝 Let’s Connect
