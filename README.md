@@ -30,7 +30,7 @@
 ---
 
 ## 🤝 Let’s Connect
-- 💼 [LinkedIn](https://linkedin.com/in/saloniguptamrt)  
+- 💼 [LinkedIn](https://linkedin.com/in/saloni-gupta0112)  
 - 📧 [saloniguptamrt@gmail.com](mailto:saloniguptamrt@gmail.com)
 
 ---
