@@ -30,7 +30,7 @@
 ---
 
 ## 🤝 Let’s Connect
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
-- 📧 your.email@example.com  
+- 💼 [LinkedIn](https://linkedin.com/in/saloniguptamrt)  
+- 📧 [saloniguptamrt@gmail.com](mailto:saloniguptamrt@gmail.com)
 
 ---
